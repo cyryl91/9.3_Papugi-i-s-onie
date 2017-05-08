@@ -1,0 +1,23 @@
+{
+  "name": "1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyryl91/9.3_Papugi-i-s-onie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyryl91/9.3_Papugi-i-s-onie/issues"
+  },
+  "homepage": "https://github.com/cyryl91/9.3_Papugi-i-s-onie#readme"
+}
